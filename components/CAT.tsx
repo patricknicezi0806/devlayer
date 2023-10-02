@@ -2,7 +2,7 @@ import Image from "next/image";
 
 export function CAT() {
   return (
-    <div className="p-4 bg-cover nave-background">
+    <div className="p-4 bg-cover naver-background">
       <small> Nossa receita secreta: Criatividade e Codificação</small>
       <h2 className="py-2 font-bold text-xl">
         Crie o seu
